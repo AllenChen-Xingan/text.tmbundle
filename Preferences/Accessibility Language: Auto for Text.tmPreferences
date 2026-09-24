@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Accessibility Language: Auto for Text</string>
+	<key>scope</key>
+	<string>text</string>
+	<key>settings</key>
+	<dict>
+		<key>accessibilityLanguage</key>
+		<string>auto</string>
+	</dict>
+	<key>uuid</key>
+	<string>7042795F-F7C1-5C2B-BE0D-CFA23D53A83F</string>
+</dict>
+</plist>

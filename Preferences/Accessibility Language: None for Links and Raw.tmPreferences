@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Accessibility Language: None for Links and Raw</string>
+	<key>scope</key>
+	<string>markup.underline.link, markup.raw</string>
+	<key>settings</key>
+	<dict>
+		<key>accessibilityLanguage</key>
+		<string>none</string>
+	</dict>
+	<key>uuid</key>
+	<string>DB19CA8C-37F5-5EB4-BC4D-08175D978FD6</string>
+</dict>
+</plist>

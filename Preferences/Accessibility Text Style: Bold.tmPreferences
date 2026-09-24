@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Accessibility Text Style: Bold</string>
+	<key>scope</key>
+	<string>markup.bold</string>
+	<key>settings</key>
+	<dict>
+		<key>accessibilityTextStyle</key>
+		<string>bold</string>
+	</dict>
+	<key>uuid</key>
+	<string>B198CFA2-BA85-51F9-970C-62C96F89F7AC</string>
+</dict>
+</plist>
